@@ -265,3 +265,15 @@
 2020-10-09 15:02:37,286 [main] INFO ebanking - Entered user name
 2020-10-09 15:02:37,340 [main] INFO ebanking - Enteres password
 2020-10-09 15:02:38,062 [main] INFO ebanking - Login test passed
+2020-10-09 16:52:33,571 [main] INFO ebanking - URL is opened
+2020-10-09 16:52:33,710 [main] INFO ebanking - Entered user name
+2020-10-09 16:52:33,762 [main] INFO ebanking - Enteres password
+2020-10-09 16:52:34,890 [main] INFO ebanking - Login test passed
+2020-10-14 17:08:31,418 [main] INFO ebanking - URL is opened
+2020-10-14 17:08:31,570 [main] INFO ebanking - Entered user name
+2020-10-14 17:08:31,623 [main] INFO ebanking - Enteres password
+2020-10-14 17:08:32,568 [main] INFO ebanking - Login test passed
+2020-10-14 17:11:54,845 [main] INFO ebanking - URL is opened
+2020-10-14 17:11:54,986 [main] INFO ebanking - Entered user name
+2020-10-14 17:11:55,043 [main] INFO ebanking - Enteres password
+2020-10-14 17:11:56,212 [main] INFO ebanking - Login test passed
