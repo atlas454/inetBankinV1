@@ -1,5 +1,17 @@
+#==================#
+# Ignore Libraries #
+#==================#
+/target/
+/Screnshots/
+/log/
+
+#==================#
+# Ignore Files     #
+#==================#
+
+
+
+#=======================#
+# Ignore Extension Files#
+#=======================#
 *.class
-test-output/
-log/
-Screenshots/
-target/surefire-reports/
