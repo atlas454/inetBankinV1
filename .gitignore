@@ -1,0 +1,4 @@
+*.class
+test-output/
+log/
+Screenshots/
