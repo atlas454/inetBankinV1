@@ -281,3 +281,7 @@
 2020-10-14 17:14:44,643 [main] INFO ebanking - Entered user name
 2020-10-14 17:14:44,703 [main] INFO ebanking - Enteres password
 2020-10-14 17:14:45,797 [main] INFO ebanking - Login test passed
+2020-10-14 17:43:37,695 [main] INFO ebanking - URL is opened
+2020-10-14 17:43:37,859 [main] INFO ebanking - Entered user name
+2020-10-14 17:43:37,918 [main] INFO ebanking - Enteres password
+2020-10-14 17:43:38,985 [main] INFO ebanking - Login test passed
